@@ -1,0 +1,2252 @@
+fileFormatVersion: 2
+guid: 02ef86d57a34aa24ca291ae6c485e4b5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StormBoss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf12755da856e4a98dd78aba57e622
+      internalID: -1328666601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb54a391680ce3488d5d30471249f94
+      internalID: 1185398597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2385515faee9145851398bc101cfc6
+      internalID: 1266646652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1728
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f1d5b4e3ed8de418c6beb55a3dcc29
+      internalID: 180405914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1728
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ce23ce43b434b47ae2cc5ec0c6cfad
+      internalID: -1008447803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1728
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf8f744961fce04ebdcceb6cf64efd4
+      internalID: -1263773337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1728
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b5cfeee1616704ca485ec8d52b577f
+      internalID: -729309645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1728
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec734e3817e04a4fb7de5419036f0fa
+      internalID: 2050387711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1728
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521fcf8278eb5b3438b46744b0e5cf54
+      internalID: -1412874558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1728
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b17ec5d53e47274aa6994baab78d675
+      internalID: 248191978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c27181e5c694546b75c51c659a3907
+      internalID: -720658607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46061bb9e470ca143809a625be999373
+      internalID: -1204573002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5356ce46dce534981cc41c734f0944
+      internalID: -1271579263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1536
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cc249412611694089b19e988a3fb4f
+      internalID: 1493633378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c698a339969daaa45aa49c58a70b803b
+      internalID: -1521807394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1536
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2009a2be5b44c684e83a1b5305906907
+      internalID: 1099054553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1536
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2f89ed7f3f11f4b97df4bd8f05e631
+      internalID: -1442874682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_17
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1536
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb62fea922d89714fa7f8dd0ae142ca3
+      internalID: -1448333233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c9c97a5d5cd7843a1d486650f95812
+      internalID: -1775304583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_19
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1536
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64736092721eb2e49b3f03b3475e7fa4
+      internalID: 1078382792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a225bed167a80f84ba7ddcddd80fc93f
+      internalID: 1525168686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5abab42987532449d434acbf912079
+      internalID: -1404862747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01354866b46cb042839ebf5fc582752
+      internalID: 439915380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1344
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f6ed97b6889be4390dfd95b743e302
+      internalID: -1110192437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1344
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4970f4d7258609148b7fc4cab8868847
+      internalID: -1856300379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1344
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb9be1d660506141864493f1cfc8b0e
+      internalID: 2016594897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1344
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e8fb21192396f42ac0f3602c1d46b4
+      internalID: -924369926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_27
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1344
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbade5fb8a75224a8141cca97b66930
+      internalID: -272972015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1344
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6094232c4efe52f46b39b963174ecc32
+      internalID: 1730612853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_29
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1344
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1facd416a02b744448e700c7206ee897
+      internalID: -982953343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199f48a62d22db244a398628c5df7707
+      internalID: 1326911079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e8cdef022e4594a82b4b00520bfd8f
+      internalID: 1895846798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951a39c005915e64687e298429094cc3
+      internalID: -853459847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfa35f919f655e4c86e1b5543ebdf3e
+      internalID: 1379015622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7478df38fb88a4a438495e1c79f1fe6c
+      internalID: 6012924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1152
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f104926a9a4bba34ab0cd1eb1e8c52c6
+      internalID: 2115973833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af8eed6e31fe854a99ef42056e4717b
+      internalID: -1256803023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_37
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1152
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0160bc40e6a49940ae36bd7bc5e8fc6
+      internalID: 1125147248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1152
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db85b62226666b4bbe2ab4474998938
+      internalID: -1589265706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_39
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1152
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bf0fce0ca0d6442a37fe500e295ffe
+      internalID: 512553585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e471ba2e4f372c40b82c1444167fb78
+      internalID: -1749192619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ffad79f966f3049a95beb25ecd2750
+      internalID: -1060679865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb10cca50ee34864eb8c55ceccde1c06
+      internalID: 1625378838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a8ec54bb2909445a1186c3503a8ebb
+      internalID: 444222992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467221b717029224aad97b5d37f839d3
+      internalID: 1641948028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_45
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cfbeebb5652454c93bc1f18defc241
+      internalID: -1896510221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894237209ca511b41a8726a6d379c6ff
+      internalID: 1853419217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_55
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aba4f4d4318f234eb60bee87ad8d3be
+      internalID: -7916392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_46
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 960
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc416b1408042e941a9aa535fa0e0322
+      internalID: 338856213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_47
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 960
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b562ab55149ea24bab23589d046ee41
+      internalID: 1536244818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 960
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621a59af4beb30b46a2b4bfe6d54531c
+      internalID: -298758286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_49
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 960
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea950480c3de0341a55555c9564b9ab
+      internalID: -483956616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_56
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f8ebfcd3d666247915da5a46340562
+      internalID: 984021799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b5210d34ae7c449a6f8ca754e1d38
+      internalID: -282370196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73293bf3bc782649a89aba9c9103e4d
+      internalID: -1523836984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63d69a512f20d341b92ba881b2fdce2
+      internalID: 889055107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40109abba7e8b14ab69e60b53f31b70
+      internalID: 1078350610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac89fc3ab782e044b38243a618cad2a
+      internalID: -318580335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_88
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 192
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eede0980aa0a0854eb2057d0b250f444
+      internalID: 1766727073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_89
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 192
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288e019994abe5b4caf96d320ba90351
+      internalID: 95313903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f86fa82a7ff1ca48b1790b895136b44
+      internalID: -182068508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957216ded1d71124a9219b8d4b87f62f
+      internalID: -718887282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_57
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 768
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f45a2972ebf0f4183f65062050a7aa
+      internalID: 406607637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_58
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b96b0e1747094d49b6c4bf0875487d9
+      internalID: -711300844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552a183ea2258874e93cf5e8b678ac0b
+      internalID: -430510138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8e0a36bde7fb64a9980bc6670f5d47
+      internalID: -805594050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_59
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 768
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cb3bcb8a3cb4a43b53e2c797d94a6c
+      internalID: 1368483432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ed6e93fa0596c48b39c445e1b9eca2
+      internalID: -1753507860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0f430fa8fdf4645a01e704a90ba43c
+      internalID: -370242254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b258a9908a27a42a7dd31a9123bcd2
+      internalID: -1666622822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e04f95f3b6eece4b9e90102dd75fd4e
+      internalID: 2088716221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046e956362f03ab48aef09141d32140e
+      internalID: 1702347295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_65
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2a8d0af62c3db4bb0e420bb9f0bc3e
+      internalID: -676391376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_66
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4394a093854ef01478834e467a0f82ba
+      internalID: 1438561256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_67
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 576
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd9c48e7f361764cbdd863f7b779716
+      internalID: -1173894935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_68
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 576
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c746b34e74832db40ba4a5dac8008f9f
+      internalID: 1647526847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_69
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 576
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3546b22008afe7a4fb215ffeaa267de6
+      internalID: -195691058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2a8df9d4057494ba87afd93acdf140
+      internalID: 562408689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d75f41d3413fa4e9e861eb406d03df
+      internalID: -1563077795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41148fc9b566d4049bab4882db0a2aea
+      internalID: -1508381345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_74
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87d04cf997f38444a20c1ff78eb45e4
+      internalID: -1004326116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_75
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ee0d5d7de2a3342a80b4385fa5df8e
+      internalID: -1532823349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_76
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b02bb33108a66479ed98bb7edae420
+      internalID: -2041937352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_77
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 384
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305f852107f122a4aa63df9a80acc958
+      internalID: -560514491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_78
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dca2b7b4834e1d4684ffed6fd865d34
+      internalID: 1359564101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_79
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 384
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eac93cb08ba0f642abf66726d3abc9d
+      internalID: -1439824628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6e377cbd526754e8572e51011a1e65
+      internalID: -2006574311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341811630e619624ca4932f789d6236a
+      internalID: -1879481069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fd2709fb8af5a498a0a3eabfc44f65
+      internalID: 1638083874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee95679a15284fd4fba1fa09201174cb
+      internalID: 1950627670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_84
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2f300992dfe1548bd0c3db4285e749
+      internalID: -2039214300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_85
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7064713a668edd1448dfe7bef5a381cb
+      internalID: -261308122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_86
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 192
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862f552457147844db223abcf1522ddc
+      internalID: -1418799925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_87
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 192
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d80b9849baf48458376c63caccb649
+      internalID: 1411227572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_94
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2194b7841c087e24dad35a8062b00bce
+      internalID: -462770884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBoss_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f461461fc9cff144f9c9706f8bb15a01
+      internalID: -130037084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StormBoss_0: -1328666601
+      StormBoss_1: 1185398597
+      StormBoss_10: -720658607
+      StormBoss_11: -1204573002
+      StormBoss_12: -1271579263
+      StormBoss_13: 1493633378
+      StormBoss_14: -1521807394
+      StormBoss_15: 1099054553
+      StormBoss_16: -1442874682
+      StormBoss_17: -1448333233
+      StormBoss_18: -1775304583
+      StormBoss_19: 1078382792
+      StormBoss_2: 1266646652
+      StormBoss_20: 1525168686
+      StormBoss_21: -1404862747
+      StormBoss_22: 439915380
+      StormBoss_23: -1110192437
+      StormBoss_24: -1856300379
+      StormBoss_25: 2016594897
+      StormBoss_26: -924369926
+      StormBoss_27: -272972015
+      StormBoss_28: 1730612853
+      StormBoss_29: -982953343
+      StormBoss_3: 180405914
+      StormBoss_30: 1326911079
+      StormBoss_31: 1895846798
+      StormBoss_32: -853459847
+      StormBoss_33: 1379015622
+      StormBoss_34: 6012924
+      StormBoss_35: 2115973833
+      StormBoss_36: -1256803023
+      StormBoss_37: 1125147248
+      StormBoss_38: -1589265706
+      StormBoss_39: 512553585
+      StormBoss_4: -1008447803
+      StormBoss_40: -1749192619
+      StormBoss_41: -1060679865
+      StormBoss_42: 1625378838
+      StormBoss_43: 444222992
+      StormBoss_44: 1641948028
+      StormBoss_45: -1896510221
+      StormBoss_46: 338856213
+      StormBoss_47: 1536244818
+      StormBoss_48: -298758286
+      StormBoss_49: -483956616
+      StormBoss_5: -1263773337
+      StormBoss_50: -1523836984
+      StormBoss_51: 889055107
+      StormBoss_52: 1078350610
+      StormBoss_53: -318580335
+      StormBoss_54: 1853419217
+      StormBoss_55: -7916392
+      StormBoss_56: 984021799
+      StormBoss_57: 406607637
+      StormBoss_58: -711300844
+      StormBoss_59: 1368483432
+      StormBoss_6: -729309645
+      StormBoss_60: -1753507860
+      StormBoss_61: -370242254
+      StormBoss_62: -1666622822
+      StormBoss_63: 2088716221
+      StormBoss_64: 1702347295
+      StormBoss_65: -676391376
+      StormBoss_66: 1438561256
+      StormBoss_67: -1173894935
+      StormBoss_68: 1647526847
+      StormBoss_69: -195691058
+      StormBoss_7: 2050387711
+      StormBoss_70: 562408689
+      StormBoss_71: -282370196
+      StormBoss_72: -1563077795
+      StormBoss_73: -1508381345
+      StormBoss_74: -1004326116
+      StormBoss_75: -1532823349
+      StormBoss_76: -2041937352
+      StormBoss_77: -560514491
+      StormBoss_78: 1359564101
+      StormBoss_79: -1439824628
+      StormBoss_8: -1412874558
+      StormBoss_80: -2006574311
+      StormBoss_81: -1879481069
+      StormBoss_82: 1638083874
+      StormBoss_83: 1950627670
+      StormBoss_84: -2039214300
+      StormBoss_85: -261308122
+      StormBoss_86: -1418799925
+      StormBoss_87: 1411227572
+      StormBoss_88: 1766727073
+      StormBoss_89: 95313903
+      StormBoss_9: 248191978
+      StormBoss_90: -130037084
+      StormBoss_91: -182068508
+      StormBoss_92: -718887282
+      StormBoss_93: -430510138
+      StormBoss_94: -462770884
+      StormBoss_95: -805594050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

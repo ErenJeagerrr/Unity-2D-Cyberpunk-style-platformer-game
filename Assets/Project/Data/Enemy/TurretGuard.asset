@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5ea73ed74de05b4eb265a56183ced14, type: 3}
+  m_Name: TurretGuard
+  m_EditorClassIdentifier: 
+  EnemyName: tank
+  MaxHeathl: 80
+  MoveSpeed: 4
+  Attack: 20
+  ChaseSpeed: 4
+  CheckRadius: 8
+  ReactTime: 1.3
+  PatrolDistance: 5
+  IdleTime: 1
+  AttackRadius: 0
+  BowRadius: {x: 7, y: 1.8, z: 0}
+  AttackCD: 2
+  HitEffect: {fileID: 100000, guid: f06e78284f831ae469c74624ab5d513b, type: 3}
+  FallCoin: 20
+  MaxEXP: 20

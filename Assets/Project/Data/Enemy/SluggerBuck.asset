@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5ea73ed74de05b4eb265a56183ced14, type: 3}
+  m_Name: SluggerBuck
+  m_EditorClassIdentifier: 
+  EnemyName: 4
+  MaxHeathl: 100
+  MoveSpeed: 5
+  Attack: 30
+  ChaseSpeed: 5
+  CheckRadius: 8
+  ReactTime: 0.8
+  PatrolDistance: 5
+  IdleTime: 1
+  AttackRadius: 0.84
+  BowRadius: {x: 0, y: 0, z: 0}
+  AttackCD: 1.5
+  HitEffect: {fileID: 100000, guid: f06e78284f831ae469c74624ab5d513b, type: 3}
+  FallCoin: 30
+  MaxEXP: 20

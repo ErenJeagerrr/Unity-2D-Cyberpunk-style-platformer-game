@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5ea73ed74de05b4eb265a56183ced14, type: 3}
+  m_Name: StormBoss
+  m_EditorClassIdentifier: 
+  MaxHeathl: 700
+  Attack: 5
+  MoveSpeed: 6
+  ChaseSpeed: 6
+  CheckRadius: 30
+  ReactTime: 2
+  PatrolDistance: 0
+  IdleTime: 1
+  AttackRadius: 2
+  BowRadius: {x: 0, y: 0, z: 0}
+  AttackCD: 0
+  HitEffect: {fileID: 100000, guid: f06e78284f831ae469c74624ab5d513b, type: 3}
+  MaxEXP: 50
+  FallCoin: 200

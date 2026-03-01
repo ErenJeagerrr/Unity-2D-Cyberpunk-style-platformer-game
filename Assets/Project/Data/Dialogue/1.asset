@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1a7385f359fb6a4c823f1e80f9bad2d, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  Pieces:
+  - CharacterName: Jack
+    CharacterContent: "Aria\u2026 there\u2019s something you need to know."
+  - CharacterName: Aria
+    CharacterContent: "My sister\u2019s last signal came from Apex territory."
+  - CharacterName: Jack
+    CharacterContent: "It wasn\u2019t a disappearance.\nIt was a cleanup."
+  - CharacterName: Aria
+    CharacterContent: "\u2026Say that again."
+  - CharacterName: Jack
+    CharacterContent: "She uncovered one of Apex\u2019s extraction projects.\nThey
+      don\u2019t leave witnesses."
+  - CharacterName: Aria
+    CharacterContent: Then neither will I.
