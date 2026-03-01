@@ -1,8 +1,6 @@
 # ⚔️ Unity 2D Hardcore Action Kit
 
-![Unity Version](https://img.shields.org/badge/Unity-2022.3%2B-000000.svg?style=flat&logo=unity)
-![License](https://img.shields.org/badge/License-MIT-green.svg)
-![Genre](https://img.shields.org/badge/Genre-Cyberpunk_Action-blue.svg)
+
 
 ## 👥 Authors
 
